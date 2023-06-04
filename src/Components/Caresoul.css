@@ -1,0 +1,79 @@
+.carousel-image {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+
+}
+
+@media screen and (min-width: 678px){
+    /* section five */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}
+@media screen and (min-width: 800px){
+    /* section two */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}
+
+@media screen and (min-width: 992px){
+    /* header & footer */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}
+
+
+@media screen and (min-width: 1000px){
+    /* section one */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    /* footer */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}
+
+@media screen and (min-width: 1400px){
+    /* section four */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}
+
+/*************** extra small sized screen ******************/
+
+@media screen and (max-width: 500px){
+    /* overall styling */
+    .carousel-image {
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 85vh;
+    }
+}

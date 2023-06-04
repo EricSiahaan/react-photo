@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -15,3 +16,10 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+{/* <div className="social-media">
+<a href="https://www.facebook.com/mycompany"><FontAwesomeIcon icon={faFacebook} /></a>
+<a href="https://www.twitter.com/mycompany"><FontAwesomeIcon icon={faTwitter} /></a>
+<a href="https://www.instagram.com/mycompany"><FontAwesomeIcon icon={faInstagram} /></a>
+</div> */}
